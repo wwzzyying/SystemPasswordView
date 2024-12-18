@@ -19,7 +19,7 @@ A system-style password input view for iOS, built with SwiftUI.
 
 <p float="left">
 <img src="https://github.com/wwzzyying/Assets/blob/main/ScreenShot1.PNG" width="300">
-<img src="https://github.com/wwzzyying/Assets/blob/main/ScreenShot2.MP4" width="300">
+<video src="https://github.com/wwzzyying/Assets/blob/main/ScreenShot2.MP4" width="300">
 </p>
 
 ## Requirements
