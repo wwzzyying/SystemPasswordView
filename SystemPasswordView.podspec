@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'SystemPasswordView'
-  s.version          = '0.1.2'
+  s.version          = '0.1.3'
   s.summary          = 'A system-style password input view for iOS'
   
   s.description      = <<-DESC
