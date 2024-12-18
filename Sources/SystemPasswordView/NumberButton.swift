@@ -19,11 +19,9 @@ public struct NumberButton: View {
     public var body: some View {
         Button(action: action) {
             Text(number)
-                .font(.system(size: 32, weight: .regular))
+                .font(.title)
                 .foregroundColor(.primary)
-                .frame(width: 80, height: 80)
-                .background(Color.primary.opacity(0.1))
-                .clipShape(Circle())
         }
+        .frame(width: 80, height: 80)
     }
 }

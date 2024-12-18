@@ -7,7 +7,7 @@
 
 import SwiftUI
 
-struct SystemPasswordView: View {
+public struct SystemPasswordView: View {
     @Binding var isPresented: Bool
     @State private var password: String = ""
     @State private var clickFeedback: Bool = false
