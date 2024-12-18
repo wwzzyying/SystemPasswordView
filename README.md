@@ -18,8 +18,8 @@ A system-style password input view for iOS, built with SwiftUI.
 ## Screenshots
 
 <p float="left">
-<img src="Screenshots/normal.png" width="300">
-<img src="Screenshots/error.png" width="300">
+<img src="https://github.com/wwzzyying/Assets/blob/main/ScreenShot1.PNG" width="300">
+<img src="https://github.com/wwzzyying/Assets/blob/main/ScreenShot2.MP4" width="300">
 </p>
 
 ## Requirements
@@ -36,14 +36,14 @@ Add the following to your `Package.swift` file:
 
 ```
 dependencies: [
-    .package(url: "https://github.com/wwzzyying/SystemPasswordView.git", from: "0.1.0")
+    .package(url: "https://github.com/wwzzyying/SystemPasswordView.git", from: "0.1.2")
 ]
 ```
 
 Or add it through Xcode:
 1. File > Add Packages...
 2. Enter package URL: `https://github.com/wwzzyying/SystemPasswordView.git`
-3. Select "Up to Next Major Version" with "0.1.0"
+3. Select "Up to Next Major Version" with "0.1.2"
 
 ### CocoaPods
 
