@@ -36,14 +36,14 @@ Add the following to your `Package.swift` file:
 
 ```
 dependencies: [
-    .package(url: "https://github.com/wwzzyying/SystemPasswordView.git", from: "0.1.4")
+    .package(url: "https://github.com/wwzzyying/SystemPasswordView.git", from: "0.1.5")
 ]
 ```
 
 Or add it through Xcode:
 1. File > Add Packages...
 2. Enter package URL: `https://github.com/wwzzyying/SystemPasswordView.git`
-3. Select "Up to Next Major Version" with "0.1.4"
+3. Select "Up to Next Major Version" with "0.1.5"
 
 ### CocoaPods
 
